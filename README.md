@@ -1,4 +1,5 @@
-dojos
-=====
+Criado Por: Jorge Santos(santos.reis.vinicius.jorge@gmail.com)
 
-Dojo
+Dojos de Estudo
+
+Criado para manter dojo de analistas de sistemas, arquitetos, programadores e testers.
